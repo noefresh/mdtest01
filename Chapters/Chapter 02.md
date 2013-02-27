@@ -17,6 +17,7 @@ Let's start an exciting chat about photography in this modern age. Now we're wor
 * Photography is a lot of fun.
 * It requires an investment but not too much money.
 * Did I mention it was a lot of fun?
+* And it's possible to edit directly on the web as well.
 
 **Let's add an Image.** 
 
