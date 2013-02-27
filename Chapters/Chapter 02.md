@@ -12,7 +12,7 @@ A few tricks to start with:
 
 #Photography 101
 
-Let's start an exciting chat about photography in this modern age. Now we're working with electric glass. Keep sliding into your future.
+Let's start an exciting chat about photography in this modern age. Let's talk only about good stuff in photography. No weirdness in terms of electric sliding. Ok?
 
 * Photography is a lot of fun.
 * It requires an investment but not too much money.
@@ -21,3 +21,7 @@ Let's start an exciting chat about photography in this modern age. Now we're wor
 **Let's add an Image.** 
 
 ![<LegoCam>](<http://www.coated.com/wp-content/uploads/2009/01/cool-kids-gadgets-lego-camera.jpg>)
+
+*Or an even better camera would be something like this:*
+
+![<Canon C300>](<http://www.steves-digicams.com/Canon-C300.jpg>)
