@@ -112,7 +112,6 @@ Images
 
 Images are exactly like inline links, but they have an exclamation point in front of them:
 
-![Github Icon](http://pupeno.files.wordpress.com/2012/03/github-logo-the-octocat.png).
 
 Unnecessary stuff. 
 

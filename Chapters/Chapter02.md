@@ -20,8 +20,4 @@ Let's start an exciting chat about photography in this modern age. Let's talk on
 
 **Let's add an Image.** 
 
-![<LegoCam>](<http://www.coated.com/wp-content/uploads/2009/01/cool-kids-gadgets-lego-camera.jpg>)
-
 *Or an even better camera would be something like this:*
-
-![<Canon C300>](<http://www.steves-digicams.com/Canon-C300.jpg>)
