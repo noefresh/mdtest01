@@ -93,6 +93,7 @@ A numbered list:
 2. Markdown keeps track of the numbers for you
 1. So this will be item 3.
 4. And this will be item 4. 
+5. And this will be item 5. 
 
 Links
 =====
@@ -111,6 +112,8 @@ Images
 Images are exactly like inline links, but they have an exclamation point in front of them:
 
 ![Valid XHTML](http://w3.org/Icons/valid-xhtml10).
+
+![Github Icon](http://pupeno.files.wordpress.com/2012/03/github-logo-the-octocat.png).
 
 The word in square brackets is the alt text, which gets displayed if the browser can't show the image.  Be sure to include meaningful alt text for blind users' screen-reader software.
 
@@ -141,7 +144,7 @@ Tables
 
 * Outer pipes on tables are optional
 * Colon used for alignment (right versus left)
-
+    
 Please visit <http://markdownpro.com/> for advanced usage of the markdown syntax and Markdown PRO! Enjoy!
 
 &copy; 2011 RADSense Software Inc. All rights Reserved. 
