@@ -20,4 +20,4 @@ Let's start an exciting chat about photography in this modern age. Let's talk on
 
 **Let's add an Image.** 
 
-*Or an even better camera would be something like this:*
+Or let's not and say we did!
